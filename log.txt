@@ -1,0 +1,8 @@
+mesh ../restart_50_.smb loaded in 0.313497 seconds
+number of tet 912075 hex 0 prism 0 pyramid 0
+mesh entity counts: v 162191 e 1095904 f 1845789 r 912075
+finally 1 fields Psi1 kept
+finally 1 fields Psi1 kept
+finally 1 fields finally 1Psi1 kept
+ fields Psi1 kept
+writeVtuFile into buffers: 0.141581 seconds

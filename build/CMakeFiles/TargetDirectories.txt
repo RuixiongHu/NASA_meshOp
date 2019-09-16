@@ -1,0 +1,3 @@
+/lore/hur3/NASA/SurfaceUpdate/build/CMakeFiles/rebuild_cache.dir
+/lore/hur3/NASA/SurfaceUpdate/build/CMakeFiles/destroyField.dir
+/lore/hur3/NASA/SurfaceUpdate/build/CMakeFiles/edit_cache.dir
